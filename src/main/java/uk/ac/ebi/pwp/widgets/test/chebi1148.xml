@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+    <S:Body>
+        <getCompleteEntityResponse xmlns="http://www.ebi.ac.uk/webservices/chebi">
+            <return>
+                <chebiId>CHEBI:1148</chebiId>
+                <chebiAsciiName>2-hydroxybutyric acid</chebiAsciiName>
+                <definition>A hydroxybutyric acid having a single hydroxyl group located at position 2; urinary
+                    secretion of 2-hydroxybutyric acid is increased with alcohol ingestion or vigorous physical exercise
+                    and is associated with lactic acidosis and ketoacidosis in humans and diabetes in animals.
+                </definition>
+                <status>CHECKED</status>
+                <smiles>CCC(O)C(O)=O</smiles>
+                <inchi>InChI=1S/C4H8O3/c1-2-3(5)4(6)7/h3,5H,2H2,1H3,(H,6,7)</inchi>
+                <inchiKey>AFENDNXGAFYKQO-UHFFFAOYSA-N</inchiKey>
+                <charge>0</charge>
+                <mass>104.10450</mass>
+                <entityStar>3</entityStar>
+                <SecondaryChEBIIds>CHEBI:675746</SecondaryChEBIIds>
+                <Synonyms>
+                    <data>2-Hydroxybutanoic acid</data>
+                    <type>SYNONYM</type>
+                    <source>KEGG COMPOUND</source>
+                </Synonyms>
+                <Synonyms>
+                    <data>2-Hydroxybutyric acid</data>
+                    <type>SYNONYM</type>
+                    <source>ChEMBL</source>
+                </Synonyms>
+                <Synonyms>
+                    <data>2-Hydroxybutyric acid</data>
+                    <type>SYNONYM</type>
+                    <source>KEGG COMPOUND</source>
+                </Synonyms>
+                <Synonyms>
+                    <data>alpha-hydroxybutanoic acid</data>
+                    <type>SYNONYM</type>
+                    <source>ChEBI</source>
+                </Synonyms>
+                <Synonyms>
+                    <data>alpha-hydroxybutyric acid</data>
+                    <type>SYNONYM</type>
+                    <source>ChEBI</source>
+                </Synonyms>
+                <IupacNames>
+                    <data>2-hydroxybutanoic acid</data>
+                    <type>IUPAC NAME</type>
+                    <source>IUPAC</source>
+                </IupacNames>
+                <Formulae>
+                    <data>C4H8O3</data>
+                    <source>KEGG COMPOUND</source>
+                </Formulae>
+                <RegistryNumbers>
+                    <data>600-15-7</data>
+                    <type>CAS Registry Number</type>
+                    <source>ChemIDplus</source>
+                </RegistryNumbers>
+                <RegistryNumbers>
+                    <data>878248</data>
+                    <type>Beilstein Registry Number</type>
+                    <source>Beilstein</source>
+                </RegistryNumbers>
+                <RegistryNumbers>
+                    <data>878248</data>
+                    <type>Reaxys Registry Number</type>
+                    <source>Reaxys</source>
+                </RegistryNumbers>
+                <Citations>
+                    <data>15749359</data>
+                    <type>PubMed citation</type>
+                    <source>CiteXplore</source>
+                </Citations>
+                <Citations>
+                    <data>164303</data>
+                    <type>PubMed citation</type>
+                    <source>CiteXplore</source>
+                </Citations>
+                <Citations>
+                    <data>168632</data>
+                    <type>PubMed citation</type>
+                    <source>CiteXplore</source>
+                </Citations>
+                <ChemicalStructures>
+                    <structure>
+                        Marvin 09120817212D
+
+                        7 6 0 0 0 0 999 V2000
+                        1.4289 -0.1650 0.0000 O 0 0 0 0 0 0 0 0 0 0 0 0
+                        0.7145 0.2475 0.0000 C 0 0 0 0 0 0 0 0 0 0 0 0
+                        0.0000 -0.1650 0.0000 C 0 0 3 0 0 0 0 0 0 0 0 0
+                        -0.7145 0.2475 0.0000 C 0 0 0 0 0 0 0 0 0 0 0 0
+                        -1.4289 -0.1650 0.0000 C 0 0 0 0 0 0 0 0 0 0 0 0
+                        0.7145 1.0725 0.0000 O 0 0 0 0 0 0 0 0 0 0 0 0
+                        0.0000 -0.9900 0.0000 O 0 0 0 0 0 0 0 0 0 0 0 0
+                        2 1 1 0 0 0 0
+                        6 2 2 0 0 0 0
+                        3 2 1 0 0 0 0
+                        7 3 1 0 0 0 0
+                        4 3 1 0 0 0 0
+                        5 4 1 0 0 0 0
+                        M END
+                    </structure>
+                    <type>mol</type>
+                    <dimension>2D</dimension>
+                    <defaultStructure>true</defaultStructure>
+                </ChemicalStructures>
+                <DatabaseLinks>
+                    <data>2-Hydroxybutyric_acid</data>
+                    <type>Wikipedia accession</type>
+                </DatabaseLinks>
+                <DatabaseLinks>
+                    <data>C05984</data>
+                    <type>KEGG COMPOUND accession</type>
+                </DatabaseLinks>
+                <DatabaseLinks>
+                    <data>HMDB00008</data>
+                    <type>HMDB accession</type>
+                </DatabaseLinks>
+                <DatabaseLinks>
+                    <data>LMFA01050004</data>
+                    <type>LIPID MAPS instance accession</type>
+                </DatabaseLinks>
+                <OntologyParents>
+                    <chebiName>butyric acid</chebiName>
+                    <chebiId>CHEBI:30772</chebiId>
+                    <type>has functional parent</type>
+                    <status>CHECKED</status>
+                    <cyclicRelationship>false</cyclicRelationship>
+                </OntologyParents>
+                <OntologyParents>
+                    <chebiName>secondary metabolite</chebiName>
+                    <chebiId>CHEBI:26619</chebiId>
+                    <type>has role</type>
+                    <status>CHECKED</status>
+                    <cyclicRelationship>false</cyclicRelationship>
+                </OntologyParents>
+                <OntologyParents>
+                    <chebiName>2-hydroxybutyrate</chebiName>
+                    <chebiId>CHEBI:64552</chebiId>
+                    <type>is conjugate acid of</type>
+                    <status>CHECKED</status>
+                    <cyclicRelationship>true</cyclicRelationship>
+                </OntologyParents>
+                <OntologyParents>
+                    <chebiName>hydroxybutyric acid</chebiName>
+                    <chebiId>CHEBI:24684</chebiId>
+                    <type>is a</type>
+                    <status>CHECKED</status>
+                    <cyclicRelationship>false</cyclicRelationship>
+                </OntologyParents>
+                <OntologyParents>
+                    <chebiName>2-hydroxy monocarboxylic acid</chebiName>
+                    <chebiId>CHEBI:49302</chebiId>
+                    <type>is a</type>
+                    <status>CHECKED</status>
+                    <cyclicRelationship>false</cyclicRelationship>
+                </OntologyParents>
+                <OntologyChildren>
+                    <chebiName>2-hydroxybutyrate</chebiName>
+                    <chebiId>CHEBI:64552</chebiId>
+                    <type>is conjugate base of</type>
+                    <status>CHECKED</status>
+                    <cyclicRelationship>true</cyclicRelationship>
+                </OntologyChildren>
+                <OntologyChildren>
+                    <chebiName>(R)-2-hydroxybutyric acid</chebiName>
+                    <chebiId>CHEBI:50612</chebiId>
+                    <type>is a</type>
+                    <status>CHECKED</status>
+                    <cyclicRelationship>false</cyclicRelationship>
+                </OntologyChildren>
+                <OntologyChildren>
+                    <chebiName>(S)-2-hydroxybutyric acid</chebiName>
+                    <chebiId>CHEBI:50613</chebiId>
+                    <type>is a</type>
+                    <status>CHECKED</status>
+                    <cyclicRelationship>false</cyclicRelationship>
+                </OntologyChildren>
+            </return>
+        </getCompleteEntityResponse>
+    </S:Body>
+</S:Envelope>
